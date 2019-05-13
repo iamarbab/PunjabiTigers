@@ -1,0 +1,46 @@
+body{
+  font-family: 'Cantata One', serif;
+
+}
+/* Join Us Section */
+#join-us{
+  background-color: #07456f;
+}
+button{
+  margin: 5px 10px;
+}
+lg-btn{
+  position: relative;
+  right: 10px;
+}
+.icon-b{
+  /* font-weight: bold; */
+  font-family: 'Pacifico', cursive;
+}
+
+
+/* Navigation Section */
+
+#navigation{
+  margin-top: 64px;
+  font-weight: bolder;
+  padding: 10px;
+  font-size:0.5;
+  background-color: #07456f;
+}
+a{
+  margin: 0 10px;
+}
+/* Owner Carsousel Section */
+#owner{
+  height: 2000px;
+  background-color: #f1f1f1;
+}
+@media (max-width: 576px)
+{
+  #navigation{
+    margin-top: 112px;
+background-color: #07456f;
+    font-weight: bolder;
+  }
+}
